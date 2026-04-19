@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/manikandan-n-07?style=for-the-badge&logo=github&label=Followers&color=181717&labelColor=0d1117)](https://github.com/manikandan-n-07?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/manikandan-n-07?style=for-the-badge&logo=github)](https://github.com/manikandan-n-07?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=manikandan-n-07&style=for-the-badge&color=6e40c9&label=Profile+Views&labelColor=0d1117)](https://github.com/manikandan-n-07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manikandan-n-35a1bb294)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)](https://huggingface.co/spaces/manikandan-n-07)
