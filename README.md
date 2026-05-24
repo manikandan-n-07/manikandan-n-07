@@ -289,12 +289,6 @@ me.say_hi()
 
 <div align="center">
 
-## ✍️ Author
-
-<br/>
-
-# Manikandan N
-
 **Full Stack Developer · AI/RL Engineer · Media Team Lead @ SEDS KCT**
 
 *Kumaraguru College of Technology · Coimbatore, Tamil Nadu, India 🇮🇳*
