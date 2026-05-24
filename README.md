@@ -80,36 +80,6 @@ me.say_hi()
 ```
 
 ---
-
-## 🎓 Education
-
-**Kumaraguru College of Technology (KCT)**  
-Saravanampatti, Coimbatore, Tamil Nadu  
-Affiliated with Anna University  
-
-**B.E / B.Tech Engineering** *(Currently Pursuing)*
-
----
-
-## 🚀 Leadership & Activities
-
-- **Media Team Lead** — SEDS KCT  
-  Managing creative content, posters, and event media activities.
-
-- **Project Lead** — Solar Tracking System  
-  Developed an IoT and Arduino-based automated solar tracking system.
-
-- **Hackathon Participant** — Meta PyTorch OpenEnv  
-  Worked on a Drone Delivery Reinforcement Learning Environment.
-
----
-
-## 🌟 Areas of Interest
-
-- Aerospace & Aeronautical Engineering  
-- Astronomy & Space Exploration  
-- Embedded Systems & IoT  
-- Web Design & Creative Media
                   
 ---
 
