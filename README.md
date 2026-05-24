@@ -24,7 +24,6 @@
 | 👨‍💻 About Me | [→ About](#-about-me) |
 | 🎓 Education | [→ Education](#-education) |
 | 🏆 Achievements & Roles | [→ Achievements](#-achievements--leadership-roles) |
-| 🚀 All Projects | [→ Projects](#-featured-projects--all-repositories) |
 | 📈 GitHub Stats | [→ Stats](#-github-stats--analytics) |
 | 🌐 Live Deployments | [→ Deployments](#-live-deployments) |
 | 🤝 Connect | [→ Connect](#-connect-with-me) |
