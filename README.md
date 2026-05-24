@@ -78,8 +78,6 @@ class Manikandan:
 me = Manikandan()
 me.say_hi()
 ```
-
----
                   
 ---
 
