@@ -24,8 +24,6 @@
 | 👨‍💻 About Me | [→ About](#-about-me) |
 | 🎓 Education | [→ Education](#-education) |
 | 🏆 Achievements & Roles | [→ Achievements](#-achievements--leadership-roles) |
-| 🛠️ Tech Arsenal | [→ Skills](#️-tech-arsenal--skills) |
-| 📊 Skills Proficiency | [→ Progress](#-skills-proficiency) |
 | 🚀 All Projects | [→ Projects](#-featured-projects--all-repositories) |
 | 📈 GitHub Stats | [→ Stats](#-github-stats--analytics) |
 | 🌐 Live Deployments | [→ Deployments](#-live-deployments) |
