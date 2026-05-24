@@ -81,36 +81,81 @@ me.say_hi()
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                      🎓  EDUCATION TIMELINE                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  🏛️  Kumaraguru College of Technology (KCT)                          ║
-║      Saravanampatti, Coimbatore, Tamil Nadu                          ║
-║      Affiliated with Anna University                                 ║
-║      ─────────────────────────────────────────────                   ║
-║      📚  B.E. / B.Tech  (Engineering)  — Currently Pursuing          ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  🏆  EXTRA-CURRICULAR HIGHLIGHTS                                     ║
-║      ─────────────────────────────────────────────                   ║
-║  🚀  Media Team Lead  —  SEDS KCT                                    ║
-║      (Space Exploration & Development Society)                       ║
-║  ☀️  Project Lead  —  Solar Tracking System (IoT + Arduino)          ║
-║  🤖  Hackathon Participant  —  Meta PyTorch OpenEnv                  ║
-║      Hackathon · Drone Delivery RL Environment                       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/College-Kumaraguru%20College%20of%20Technology-blue?style=for-the-badge&logo=academia" />
+<img src="https://img.shields.io/badge/University-Anna%20University-red?style=for-the-badge&logo=google-scholar" />
+<img src="https://img.shields.io/badge/Status-Currently%20Pursuing-success?style=for-the-badge&logo=bookstack" />
 
 </div>
 
+---
+
+## 🏛️ Academic Journey
+
+### 📍 Kumaraguru College of Technology (KCT)
+**Saravanampatti, Coimbatore, Tamil Nadu**  
+Affiliated with **Anna University**
+
+🎓 Pursuing **B.E / B.Tech Engineering**
+
+---
+
+# 🚀 Leadership & Activities
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 SEDS KCT
+**Media Team Lead**  
+Space Exploration & Development Society
+
+- Managing creative media content
+- Designing posters & event promotions
+- Conducting astronomy outreach
+
+</td>
+
+<td width="50%">
+
+### ☀️ Solar Tracking System
+**Project Lead**
+
+- IoT + Arduino based system
+- Automated solar panel tracking
+- Energy optimization project
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Hackathons & Innovation
+
+### 🤖 Meta PyTorch OpenEnv Hackathon
+Worked on:
+
+- 🚁 Drone Delivery Reinforcement Learning Environment
+- 🧩 AI-based simulation concepts
+- 🌐 Autonomous navigation research
+
+---
+
+<div align="center">
+
+## ✨ Passion Areas
+
+🚀 Aerospace Engineering  
+🔭 Astronomy & Space Science  
+🤖 Embedded Systems & IoT  
+💻 Web Design & Creative Media  
+
+</div>
+                  
 ---
 
 ## 🏆 Achievements & Leadership Roles
