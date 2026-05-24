@@ -186,48 +186,6 @@ me.say_hi()
 
 ---
 
-## 📊 Skills Proficiency
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                   📊  SKILLS PROFICIENCY CHART                      ║
-╠═══════════════════════════╦══════════════════════════════╦══════════╣
-║  SKILL                    ║  PROFICIENCY                 ║  LEVEL   ║
-╠═══════════════════════════╬══════════════════════════════╬══════════╣
-║  Python                   ║  ████████████████████  95%   ║  Expert  ║
-║  HTML5 / CSS3             ║  ██████████████████░░  90%   ║  Expert  ║
-║  Google Apps Script       ║  ███████████████████░  92%   ║  Expert  ║
-║  JavaScript (Vanilla)     ║  ████████████████░░░░  85%   ║  Adv.    ║
-║  FastAPI / Flask          ║  ████████████████░░░░  82%   ║  Adv.    ║
-║  Reinforcement Learning   ║  ███████████████░░░░░  78%   ║  Adv.    ║
-║  PyTorch / DQN            ║  ████████████████░░░░  80%   ║  Adv.    ║
-║  PWA / Service Workers    ║  ████████████████░░░░  80%   ║  Adv.    ║
-║  Docker / DevOps          ║  ██████████████░░░░░░  72%   ║  Inter.  ║
-║  Arduino / IoT            ║  ██████████████░░░░░░  70%   ║  Inter.  ║
-╚═══════════════════════════╩══════════════════════════════╩══════════╝
-```
-
-</div>
-
-### 🧩 Domain Expertise
-
-<div align="center">
-
-| Domain | Level |
-|--------|-------|
-| 🌐 Full Stack Web Dev | `█████████░` 90% |
-| ☁️ Serverless Architecture | `█████████░` 92% |
-| 📧 Email Automation Systems | `█████████░` 90% |
-| 🎨 UI/UX (Glassmorphism/PWA) | `████████░░` 82% |
-| 🤖 AI / Reinforcement Learning | `████████░░` 80% |
-| 📱 PWA Development | `████████░░` 80% |
-| 🐳 Docker / DevOps | `███████░░░` 72% |
-| ☀️ IoT / Embedded Systems | `███████░░░` 70% |
-
-</div>
-
 ---
 
 ## 📈 GitHub Stats & Analytics
