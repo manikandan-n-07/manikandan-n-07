@@ -81,80 +81,35 @@ me.say_hi()
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-<div align="center">
+**Kumaraguru College of Technology (KCT)**  
+Saravanampatti, Coimbatore, Tamil Nadu  
+Affiliated with Anna University  
 
-<img src="https://img.shields.io/badge/College-Kumaraguru%20College%20of%20Technology-blue?style=for-the-badge&logo=academia" />
-<img src="https://img.shields.io/badge/University-Anna%20University-red?style=for-the-badge&logo=google-scholar" />
-<img src="https://img.shields.io/badge/Status-Currently%20Pursuing-success?style=for-the-badge&logo=bookstack" />
-
-</div>
+**B.E / B.Tech Engineering** *(Currently Pursuing)*
 
 ---
 
-## 🏛️ Academic Journey
+## 🚀 Leadership & Activities
 
-### 📍 Kumaraguru College of Technology (KCT)
-**Saravanampatti, Coimbatore, Tamil Nadu**  
-Affiliated with **Anna University**
+- **Media Team Lead** — SEDS KCT  
+  Managing creative content, posters, and event media activities.
 
-🎓 Pursuing **B.E / B.Tech Engineering**
+- **Project Lead** — Solar Tracking System  
+  Developed an IoT and Arduino-based automated solar tracking system.
 
----
-
-# 🚀 Leadership & Activities
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌌 SEDS KCT
-**Media Team Lead**  
-Space Exploration & Development Society
-
-- Managing creative media content
-- Designing posters & event promotions
-- Conducting astronomy outreach
-
-</td>
-
-<td width="50%">
-
-### ☀️ Solar Tracking System
-**Project Lead**
-
-- IoT + Arduino based system
-- Automated solar panel tracking
-- Energy optimization project
-
-</td>
-</tr>
-</table>
+- **Hackathon Participant** — Meta PyTorch OpenEnv  
+  Worked on a Drone Delivery Reinforcement Learning Environment.
 
 ---
 
-## 🧠 Hackathons & Innovation
+## 🌟 Areas of Interest
 
-### 🤖 Meta PyTorch OpenEnv Hackathon
-Worked on:
-
-- 🚁 Drone Delivery Reinforcement Learning Environment
-- 🧩 AI-based simulation concepts
-- 🌐 Autonomous navigation research
-
----
-
-<div align="center">
-
-## ✨ Passion Areas
-
-🚀 Aerospace Engineering  
-🔭 Astronomy & Space Science  
-🤖 Embedded Systems & IoT  
-💻 Web Design & Creative Media  
-
-</div>
+- Aerospace & Aeronautical Engineering  
+- Astronomy & Space Exploration  
+- Embedded Systems & IoT  
+- Web Design & Creative Media
                   
 ---
 
